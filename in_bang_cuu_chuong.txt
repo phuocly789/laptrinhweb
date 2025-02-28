@@ -1,4 +1,4 @@
-"B?ng c?u chuong 2" 
+Bang Cuu Chuong 2
 2 x 1 = 1 * 2
 2 x 2 = 2 * 2
 2 x 3 = 3 * 2
