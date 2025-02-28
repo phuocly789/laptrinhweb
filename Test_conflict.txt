@@ -1,1 +1,4 @@
 Đây là link từ main
+=======
+đây là link từ conflict 
+>>>>>>> test_conflict
